@@ -1,4 +1,4 @@
-![Representação de Laercio sentado de pernas cruzadas com um notebook na mão em um fundo com folhas](https://github.com/laerciocandido/laerciocandido/capa.png)
+![Representação de Laercio sentado de pernas cruzadas com um notebook na mão em um fundo com folhas](https://github.com/LaercioCandido/LaercioCandido/blob/main/capa.png)
 
 -------
 
