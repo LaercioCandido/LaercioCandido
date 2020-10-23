@@ -2,6 +2,8 @@
 
 I am graduated in Mathematics, currently studying software engineering and software development at 42 São Paulo.
 
+-------
+
 <center>
 <table>
     <tr>
@@ -10,3 +12,11 @@ I am graduated in Mathematics, currently studying software engineering and softw
     </tr>   
 </table>
 </center>
+
+--------
+
+
+--------
+
+![Profile views](https://komarev.com/ghpvc/?username=laerciocandido&color=blue&style=flat
+
