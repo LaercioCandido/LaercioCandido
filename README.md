@@ -8,10 +8,9 @@ I am graduated in Mathematics, currently studying software engineering and softw
 
 -------
 
-
-<a href="https://www.linkedin.com/in/laerciocandido"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/linkedin.png" width="46"></img></a>
-<a href="https://www.twitter.com/lahhalcandido"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/twitter.png" width="46"></img></a>
-<a href="mailto:lcs_junior@yahoo.com.br"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/email.png" width="46"></img></a>
+<center> <a href="https://www.linkedin.com/in/laerciocandido"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/linkedin.png" alt="link pro linkedin" width="46"></img></a>
+<a href="https://www.twitter.com/lahhalcandido"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/twitter.png" alt="link pro twitter" width="46"></img></a>
+<a href="mailto:lcs_junior@yahoo.com.br"><img src="https://github.com/LaercioCandido/LaercioCandido/blob/main/email.png" alt="mande-me um email" width="46"></img></a> </center>
 
 
 --------
