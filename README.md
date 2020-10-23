@@ -18,5 +18,5 @@ I am graduated in Mathematics, currently studying software engineering and softw
 
 --------
 
-![Profile views](https://komarev.com/ghpvc/?username=laerciocandido&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=laerciocandido&color=blue&style=flat
 
