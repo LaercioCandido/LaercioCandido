@@ -1,4 +1,4 @@
-![Representação de Laercio sentado de pernas cruzadas com um notebook na mão em um fundo com folhas](img src="https://github.com/laerciocandido/laerciocandido/linkedin.png")
+![Representação de Laercio sentado de pernas cruzadas com um notebook na mão em um fundo com folhas](https://github.com/laerciocandido/laerciocandido/capa.png)
 
 -------
 
@@ -19,9 +19,9 @@ I am graduated in Mathematics, currently studying software engineering and softw
 
 --------
 
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/laerciocandido/laerciocandido/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laerciocandido)  
+<a href="https://www.linkedin.com/in/laerciocandido"><img src="https://github.com/laerciocandido/laerciocandido/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/laerciocandido)  
 
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/laerciocandido/laerciocandido/twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/lahhalcandido)  
+<a href="https://www.twitter.com/lahhalcandido"><img src="https://github.com/laerciocandido/laerciocandido/twitter.png" width="16"></img></a> [Twitter](https://www.twitter.com/lahhalcandido)  
 
 
 --------
