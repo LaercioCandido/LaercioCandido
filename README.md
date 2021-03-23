@@ -4,7 +4,7 @@
 
 ### Hi there!!
 
-I am graduated in Mathematics, currently studying software engineering and software development at <a href="https://www.42sp.org.br/">42 São Paulo</a> and acting as a machine learning intern at <a href="https://www.kunumi.com/portugues">Kunumi</a>.
+Graduated in Mathematics, currently working as an Integrating Person in the Education area at <a href="https://www.kunumi.com/portugues">Kunumi</a>. In addition, studying software engineering and software development at <a href="https://www.42sp.org.br/">42 São Paulo</a>.
 
 -------
 
