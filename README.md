@@ -4,7 +4,7 @@
 
 ### Hi there!!
 
-Graduated in Mathematics, currently working as an Student Experience Manager at <a href="https://www.sirius.education/">Sirius</a>, integrating my experience in Education and my knowledge in data science. In addition, studying software engineering and software development at <a href="https://www.42sp.org.br/">42 São Paulo</a>.
+Graduated in Mathematics, currently working as an Student Experience Manager at <a href="https://www.sirius.education/">Sirius</a>, integrating my experience in Education and my knowledge in data science. In addition, studied software engineering and software development at <a href="https://www.42sp.org.br/">42 São Paulo</a>.
 
 -------
 
